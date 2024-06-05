@@ -25,9 +25,4 @@ Bu analizde kullanılan veriseti aşağıdaki sütunları içerir:
 - **death_city**: Ödül sahibinin ölüm yeri (şehir) (varsa).
 - **death_country**: Ödül sahibinin ölüm yeri (ülke) (varsa).
 
-## Kurulum
 
-Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerini yüklemeniz gerekmektedir:
-
-```bash
-pip install pandas seaborn matplotlib numpy
