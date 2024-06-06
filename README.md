@@ -2,7 +2,7 @@
 
 Bu proje, Nobel Ödülü verisetini analiz ederek, Nobel Ödüllerini en çok kazanan ülkeleri, ilk kadın ve erkek kazananları ve belirli dönemlerdeki kazananların kategorilerini ve ülkelerini belirlemeyi amaçlamaktadır. Python kullanılarak veri analizi ve görselleştirme yapılmıştır.
 
-## Veriseti Bilgileri
+## Veri seti Bilgileri
 
 Bu analizde kullanılan veriseti aşağıdaki sütunları içerir:
 
